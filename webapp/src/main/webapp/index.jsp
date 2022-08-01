@@ -7,7 +7,7 @@
     <label for="Name"><b></b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
+    <h1> ragul</h1>
     
 
     <label for="To enter email"><b>Enter Email</b></label>
